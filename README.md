@@ -1,189 +1,94 @@
-<div align="center">
+<p align="center">
+  <a href="https://github.com/volam-rakshith">
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=54&height=90&width=890&text=Hello!%20I'm%20Volam%20Rakshith" alt="Hello! I&#39;m Volam Rakshith" />
+  </a>
+</p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:080C14,50:4FC3F7,100:00E5A0&height=260&section=header&text=VOLAM%20RAKSHITH&fontSize=58&fontColor=C8956C&fontAlignY=38&animation=fadeIn" width="100%"/>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=e3b341&center=true&vCenter=true&width=900&height=44&lines=My%20approach%20is%20fast%20and%20execution-first.;I%20work%20across%20C%2C%20C%2B%2B%2C%20HTML%2C%20C%23%2C%20Flutter%2C%20Python%2C%20Web%2C%20React%2C%20and%20AI%20APIs" alt="Typing headlines" />
+</p>
 
-<a href="https://volam-rakshith.github.io/VOLAM-RAKSHITH-PORTFOLIO/">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=24&duration=2600&pause=800&color=4FC3F7&center=true&vCenter=true&multiline=true&repeat=true&width=820&height=90&lines=Founder+%40+VR-Developments;Flutter+%C2%B7+Android+%C2%B7+Web+%C2%B7+AI-Integrated+Dev;11%2B+live+projects+and+counting;Warning%3A+may+ship+faster+than+expected" alt="Typing SVG"/>
-</a>
+### 🚀 About Me
 
-<br/>
+**I'm Volam Rakshith, a Diploma Engineering student from Hyderabad, building and deploying real software under my brand VR-Developments. I don't just write code — I create products: polished, branded, and purposeful.  
+From AI-powered Android apps to real-time collaborative web tools, from camera-based detection systems to full restaurant management platforms — every project I take on is built with the same energy: make it look great, make it work, and deploy it.**
 
-![Profile Views](https://komarev.com/ghpvc/?username=volam-rakshith&label=VISITORS&color=00E5A0&style=for-the-badge)
-![Status](https://img.shields.io/badge/STATUS-BUILDING_SOMETHING-4FC3F7?style=for-the-badge)
+🌱 &nbsp;I'm currently learning **Cloud Computing and Linux**  
+👯 &nbsp;I'm looking to collaborate on **any intrested web development or any other projects if i can with my skills!**  
+💬 &nbsp;Ask me about **📱 FLUTTER 🐍 PYTHON 🌐 WEB DEVELOPMENT ⚛️ REACT 🧑‍💻 C LANG 🔧 C++ 🧩 C# 🔥 FIREBASE 🧪 Flask + Django 🔷 TypeScript  and &lt;/&gt; HTML etc... check my skills for more!**  
+⚡ &nbsp;Fun fact: **nearly 60% of my time is spent reading and understanding existing code, rather than writing new lines from scratch**
 
-<a href="https://volam-rakshith.github.io/VOLAM-RAKSHITH-PORTFOLIO/"><img src="https://img.shields.io/badge/PORTFOLIO-4FC3F7?style=for-the-badge&logo=vercel&logoColor=080C14"/></a>
-<a href="https://github.com/Volam-Rakshith"><img src="https://img.shields.io/badge/GITHUB-C8956C?style=for-the-badge&logo=github&logoColor=080C14"/></a>
-<a href="https://www.buymeacoffee.com/Volam-Rakshith"><img src="https://img.shields.io/badge/BUY_ME_A_COFFEE-00E5A0?style=for-the-badge&logo=buymeacoffee&logoColor=080C14"/></a>
+### 🛠️ Tech Stack
 
-</div>
+<p align="left">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+  <img src="https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
+  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=black" alt="Supabase" />
+  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=vscodium&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" alt="IntelliJ IDEA" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+</p>
 
----
+### 🔗 Connect With Me
 
-<div align="center">
-<img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,android,py,js,ts,react,threejs,html,css,flask,firebase,git,github,vscode&theme=dark&perline=8"/>
-</div>
+<p align="left">
+  <a href="https://instagram.com/rishi_kumar_lfy" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://youtube.com/@learnforyourself2008" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
+  <a href="https://volam-rakshith.github.io/VOLAM-RAKSHITH-PORTFOLIO/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="mailto:volamrakshith2008@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
 
----
+### 📊 GitHub Stats
 
-<div align="center">
+<p align="center">
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=volam-rakshith&show_icons=true&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=volam-rakshith&layout=compact&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
+</p>
 
-### 🏆 Trophy Case
+### 📈 Contribution Graph
 
-<img src="https://github-profile-trophy.vercel.app/?username=Volam-Rakshith&theme=darkhub&no-frame=true&row=1&column=6&margin-w=8" />
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=volam-rakshith&bg_color=00000000&color=2ea043&line=2ea043&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
+</p>
 
-</div>
+### 💭 Dev Quote
 
----
-
-<details open>
-<summary><b>📊 The Numbers — click to collapse</b></summary>
-<br/>
-
-<div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Volam-Rakshith&show_icons=true&theme=dark&bg_color=080C14&title_color=4FC3F7&icon_color=00E5A0&text_color=c9d1d9&border_color=4FC3F7&count_private=true"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Volam-Rakshith&layout=compact&theme=dark&bg_color=080C14&title_color=4FC3F7&icon_color=00E5A0&text_color=c9d1d9&border_color=4FC3F7"/>
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Volam-Rakshith&theme=dark&background=080C14&border=4FC3F7&stroke=4FC3F7&ring=00E5A0&fire=C8956C&currStreakLabel=4FC3F7"/>
-</div>
-
-</details>
-
-<details>
-<summary><b>🎲 Random Dev Quote — reload the page to reroll</b></summary>
-<br/>
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
-</div>
-</details>
-
-<details>
-<summary><b>⚡ Fun Facts</b></summary>
-<br/>
-
-- 🏙️ Based in Hyderabad, building under the name **VR-Developments**
-- 🧪 Turned a smartphone camera into a smoke detector (SmokeGuard) — no extra hardware
-- 🎨 Antigravity Canvas lets multiple people draw together while AI generates SVG art live
-- 🍽️ Built a full restaurant OS with 4 separate role-based logins in one Flutter app
-- 🔒 Most apps are privacy-first by design — no login, no data collection, by choice not by accident
-- ☕ Runs on caffeine and shipped side projects more than sleep schedules
-
-</details>
-
----
-
-<div align="center">
-
-### 🗂 Featured Builds — click to expand
-
-</div>
-
-<details>
-<summary><b>🧠 Coding Insight</b> — Flutter / Android</summary>
-<br/>
-
-Paste code → get AI-powered error detection, line-by-line explanations, auto-generated fixes. Fully private, no login, no data collection.
-`Status: pending Play Store approval`
-
-</details>
-
-<details>
-<summary><b>🎨 Antigravity Canvas</b> — Flask + SocketIO + Groq/LLaMA</summary>
-<br/>
-
-Real-time collaborative drawing board with AI-generated SVG art.
-`Status: offline`
-
-</details>
-
-<details>
-<summary><b>🍽️ Restaurant Manager</b> — Flutter + Firebase + Riverpod</summary>
-<br/>
-
-Role-based access system — Admin, Cashier, Waiter, Kitchen — all in one app.
-
-</details>
-
-<details>
-<summary><b>🖼️ Dynamic Wallpaper</b> — Flutter Clean Architecture + Kotlin</summary>
-<br/>
-
-Battery-aware wallpaper engine with native Kotlin integration.
-`Status: offline`
-
-</details>
-
-<details>
-<summary><b>🔥 SmokeGuard</b> — Claude Vision API</summary>
-<br/>
-
-Camera-based smoke detection, single-file HTML mobile web app, HTTPS-hosted.
-
-</details>
-
-<details>
-<summary><b>💡 LightSense</b> — Pixel Luminance + AI</summary>
-<br/>
-
-Dual-mode light detector — local pixel analysis with optional AI scan fallback.
-
-</details>
-
-<details>
-<summary><b>🤖 Groq AI Chatbot</b> — Single-file HTML</summary>
-<br/>
-
-No-login, multi-model AI chat that runs locally around CORS constraints.
-
-</details>
-
-<details>
-<summary><b>🍴 RestoFlow</b> — Three.js + GSAP</summary>
-<br/>
-
-Restaurant SaaS landing page built for Indian operators — INR/GST-aware.
-
-</details>
-
-<details>
-<summary><b>📊 Sales Prediction Dashboard</b> — Python + ReportLab</summary>
-<br/>
-
-Automated sales forecasting reports, INR-formatted output.
-
-</details>
-
-<details>
-<summary><b>🌍 GeoWeather3D</b> — TypeScript + Vite</summary>
-<br/>
-
-Interactive 3D weather visualization.
-
-</details>
-
-<details>
-<summary><b>🏢 SV Global Services</b> — Client Project</summary>
-<br/>
-
-Single-file HTML site with scroll-reveal animations, particle hero, and course tabs.
-
-</details>
-
-<div align="center">
-<a href="https://volam-rakshith.github.io/VOLAM-RAKSHITH-PORTFOLIO/"><img src="https://img.shields.io/badge/SEE_ALL_PROJECTS_→-00E5A0?style=for-the-badge&logoColor=080C14"/></a>
-</div>
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev quote" />
+</p>
 
 ---
-
-<div align="center">
-
-<a href="https://github.com/Volam-Rakshith"><img src="https://img.shields.io/badge/GitHub-4FC3F7?style=for-the-badge&logo=github&logoColor=080C14"/></a>
-<a href="https://volam-rakshith.github.io/VOLAM-RAKSHITH-PORTFOLIO/"><img src="https://img.shields.io/badge/Portfolio-C8956C?style=for-the-badge&logo=vercel&logoColor=080C14"/></a>
-<a href="https://www.buymeacoffee.com/Volam-Rakshith"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-00E5A0?style=for-the-badge&logo=buymeacoffee&logoColor=080C14"/></a>
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5A0,50:4FC3F7,100:080C14&height=100&section=footer" width="100%"/>
-
-</div>
+<p align="center"><i>⭐️ From <a href="https://github.com/volam-rakshith">volam-rakshith</a></i></p>
